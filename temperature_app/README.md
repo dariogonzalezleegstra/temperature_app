@@ -1,25 +1,14 @@
-# ReduxSimpleStarter
+# temperature_app
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+With this app you will be able to know the forecast for the next 5 days for any city in the USA.
+It includes temperature, pressure and humidity!
 
-### Getting Started
-
-There are two methods for getting started with this repo.
-
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
-
+#### Install it with git
 ```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
+> git clone https://github.com/dariogonzalezleegstra/temperature_app.git
+> cd temperature_app
 > npm install
 > npm start
 ```
 
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
-```
-> npm install
-> npm start
-```
+** From a Stephen Grider's course https://github.com/StephenGrider/ **
